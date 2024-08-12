@@ -26,7 +26,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/pixel-sand-simulator.git
+   git clone https://github.com/othmanelfadil/Pixel-Grain-Simulator.git
 2. **Acess the directory:**
    ```bash
    cd pixel-sand-simulator
