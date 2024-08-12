@@ -6,16 +6,15 @@
 
 ## **Overview**
 
-**Pixel Sand Simulator** is a physics-based sandbox game that simulates the natural behavior of falling sand particles. It provides various gradient themes, allows color customization, and gives users control over the simulation's behavior.
+**Pixel Sand Simulator** is a physics-based sandbox game that simulates the natural behavior of falling sand particles. It provides various gradient themes, and gives users control over the simulation's behavior.
 
 ## **Features**
 
 - **Realistic Sand Simulation**: Simulates natural falling and stacking behavior of sand particles.
-- **Gradient Themes**: Choose from multiple gradients like `Rainbow`, `Mountain`, `Desert`, and `Moon`.
-- **Custom Color Option**: Customize the color of sand particles using RGB values.
+- **Gradient Themes**: Choose from multiple gradients like `Rainbow`, `Mountain`, `Desert`, `Nature` and `Moon`.
 - **Interactive UI**: Simple and intuitive menu for selecting gradients, adjusting settings, and starting the simulation.
 - **Responsive Controls**: Adjust the amount of sand and other settings in real-time.
-- **Animated Title**: The title "**Pixel Sand Simulator**" has a dynamic rainbow gradient, with each letter independently moving up and down.
+
 
 ## **Requirements**
 
@@ -55,7 +54,7 @@
 - **Rainbow**: Smooth transition through all rainbow colors.
 - **Mountain**: Shades of grey, green, white, and brown, representing a mountain range.
 - **Desert**: Merge of beach and desert colors with shades of blue, brown, and yellow.
--**Nature** : Shades of green withforest like theme.
+- **Nature** : Shades of green withforest like theme.
 - **Moon**: Shades of grey and white, with moon-like crater spots.
 
 ## **Troubelshooting**
